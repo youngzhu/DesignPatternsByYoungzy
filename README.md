@@ -8,7 +8,7 @@
 
 
 ## 学习资源（按学习的先后顺序）
-0. xx  
+0. [From 0 to 1: Design Patterns - 24 That Matter - In Java](https://stackskills.com/courses/enrolled/51687)  
     **性质：** 网课（收费）  
     **来源：** 某次打包优惠活动
 0. 《Head First设计模式》  
