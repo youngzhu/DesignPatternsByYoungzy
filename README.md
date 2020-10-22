@@ -11,7 +11,7 @@
 
 ## 学习计划/进度
 
-[Notion](https://www.notion.so/12e9cbf9621144b28fbc449d05baa217)
+[Notion | 设计模式学习计划](https://www.notion.so/12e9cbf9621144b28fbc449d05baa217)
 
 
 ## 学习资源（按学习的先后顺序）
