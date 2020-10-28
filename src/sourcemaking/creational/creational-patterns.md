@@ -15,8 +15,9 @@
 11. [原型模式][url-prototype]不需要子类，但一定要有初始化过程；[工厂方法模式][url-factory-method]需要子类，但不一定有初始化过程。
 12. 有些过度使用了[组合模式][url-composite]和[装饰者模式][url-decorator]的设计也可以使用[原型模式][url-prototype]。
 
+原文链接：https://sourcemaking.com/design_patterns/creational_patterns
 
-[url-prototype]: /
+[url-prototype]: #
 [url-abstract-factory]: #
 [url-builder]: #
 [url-singleton]: #
