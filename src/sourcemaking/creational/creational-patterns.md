@@ -16,7 +16,7 @@
 12. 有些过度使用了[组合模式][url-composite]和[装饰者模式][url-decorator]的设计也可以使用[原型模式][url-prototype]。
 
 
-[url-prototype]: #
+[url-prototype]: /
 [url-abstract-factory]: #
 [url-builder]: #
 [url-singleton]: #
