@@ -29,4 +29,13 @@
 4. 定义各个平台的工厂类，其封装了对每一个平台相关产品的创建操作
 5. 在客户端的调用中去掉所有的 `new` 操作，而改用工厂方法
 
+----
+_以下非译文_
 
+将上述译文中的“举例”转为了代码。
+
+一开始是按产品来划分的，如 `PlatformDoor` 包含了不同型号的门： `SedanDoor` `SportsDoor` `SUVDoor`
+
+后来觉得按平台来划分对以后的扩展更友好。 `PlatformSedan` 里面包含了 `SedanDoor` `SedanHood` `SedanWheel` ，即包含了该型号车的所有零部件。
+
+如果新增了一个xx型号，直接复制 `PlatformSedan` 改改即可，不像之前的结构比较分散。

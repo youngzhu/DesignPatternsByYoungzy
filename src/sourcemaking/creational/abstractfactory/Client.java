@@ -4,7 +4,7 @@ public class Client {
     public static void main(String[] args) {
         StampingEquipment factory = changeByRoller(StampingDies.SEDAN);
 
-        factory = changeByRoller(StampingDies.SUV);
+//        factory = changeByRoller(StampingDies.SUV);
 //        factory = changeByRoller(null);
 
         Wheel wheel = factory.stampWheel();

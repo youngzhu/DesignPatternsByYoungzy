@@ -1,6 +1,3 @@
-/*
-译文中所谓的“平台”
- */
 package sourcemaking.creational.abstractfactory;
 
 class SedanDoor extends Door {
@@ -9,14 +6,15 @@ class SedanDoor extends Door {
     }
 }
 
-class SportsDoor extends Door {
+class SedanHood extends Hood {
     void sayHi() {
-        System.out.println("Hi, I'm a Sports Door");
+        System.out.println("Hi, I'm a Sedan Hood");
     }
 }
 
-class SUVDoor extends Door {
+class SedanWheel extends Wheel {
+    @Override
     void sayHi() {
-        System.out.println("Hi, I'm a SUV Door");
+        System.out.println("Hi, I'm a Sedan Wheel");
     }
 }
