@@ -31,3 +31,6 @@
 5. 客户端创建“读取器”和“构造器”，并将“构造器”注册到“读取器”中
 6. 客户端通知“读取器”去构建
 7. 客户端从“构造器”获取结果
+
+
+原文：https://sourcemaking.com/design_patterns/builder
