@@ -1,6 +1,6 @@
 # [译文]设计模式
 
-原文网址：[sourcemaking.com](https://sourcemaking.com/design_patterns)
+> 原文网址：[sourcemaking.com](https://sourcemaking.com/design_patterns)
 
 在软件工程领域，**设计模式**是一种可用来解决软件设计中常出现的问题的可重复的解决方案。设计模式不是可以直接将其转化为代码的完备设计，它是用来解决不同场景下不同问题的一种描述或模板。
 
