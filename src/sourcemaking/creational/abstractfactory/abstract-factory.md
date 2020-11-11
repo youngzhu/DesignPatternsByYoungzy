@@ -19,10 +19,12 @@
 
 ## 结构
 抽象工厂为每一类产品定义一个工厂方法。每一个工厂方法封装了一个具体的产品类的 `new` 操作。通过工厂派生出的类，每一个"平台"都被模块化了。
+
 ![图](https://sourcemaking.com/files/v2/content/patterns/Abstract_Factory.png)
 
 ## 举例
 这种模式在日本的汽车制造行业钣金冲压设备的生产过程中可以发现。冲压设备是一个用来制造汽车零部件的“抽象工厂”。同样的设备为不同的汽车模型制造右侧门、左侧门、右侧前挡泥板、左侧前挡泥板、引擎盖等等。通过辊轴改变冲压模具，设备可以在3分钟内切换生产不同的零部件。
+
 ![图片](https://sourcemaking.com/files/v2/content/patterns/Abstract_Factory_example1.png)
 
 ## 核查清单（也可以理解为应用步骤）
