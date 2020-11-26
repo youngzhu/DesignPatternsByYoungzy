@@ -29,7 +29,8 @@ public class TableBuilderDemo {
         try {
             // 与源码稍有不同
             // 依class的位置而定
-            builder = (Builder) Class.forName(getClass().getPackageName() + "." + className)
+            // 不同jdk，package的方法名不同
+            builder = (Builder) Class.forName(getClass().getPackage() + "." + className)
                     .getDeclaredConstructor().newInstance();
         } catch (Exception e) {
             e.printStackTrace();
