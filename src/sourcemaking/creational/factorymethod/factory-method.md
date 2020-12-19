@@ -1,6 +1,6 @@
 # [译文]工厂方法模式
 
-> 原文网址：[Factory Method Pattern](https://sourcemaking.com/design_patterns/factory_method)
+> 原文网址：[Factory Method Design Pattern](https://sourcemaking.com/design_patterns/factory_method)
 
 ## 意图
 - 定义一个用来创建对象的接口，由其子类（实现类）决定哪个类应该被初始化。工厂方法把类的初始化过程延迟到子类里
