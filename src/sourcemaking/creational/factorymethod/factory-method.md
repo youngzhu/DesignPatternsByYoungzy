@@ -1,6 +1,6 @@
 # [译文]工厂方法模式
 
-> 原文网址：[Factory Method Pattern](https://sourcemaking.com/design_patterns/factory_method)
+> 原文网址：[Factory Method Design Pattern](https://sourcemaking.com/design_patterns/factory_method)
 
 ## 意图
 - 定义一个用来创建对象的接口，由其子类（实现类）决定哪个类应该被初始化。工厂方法把类的初始化过程延迟到子类里
@@ -42,7 +42,7 @@
 
 ## 核查清单（也可以理解为应用步骤）
 - 如果有一套运用多态的继承关系，考虑在基类里定义一个静态的工厂方法，来增加动态创建多态实例的能力。
-- 给工厂方法定义入参，使其能够清楚地知道具体那个衍生类应该被实例化。
+- 给工厂方法定义入参，使其能够清楚地知道具体哪个衍生类应该被实例化。
 - 考虑设计一个“对象池”，使对象的实例可以重复使用而不是简单的创建
 - 考虑将所有的构造函数改为 `private` 或 `protected` 修饰
 
