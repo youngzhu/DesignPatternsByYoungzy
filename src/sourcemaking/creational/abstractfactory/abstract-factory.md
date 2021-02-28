@@ -44,3 +44,5 @@ _以下非译文_
 后来觉得按平台来划分对以后的扩展更友好。 `PlatformSedan` 里面包含了 `SedanDoor` `SedanHood` `SedanWheel` ，即包含了该型号车的所有零部件。
 
 如果新增了一个xx型号，直接复制 `PlatformSedan` 改改即可，不像之前的结构比较分散。
+
+Blog: [www.youngzy.com | 设计模式 ｜ 抽象工厂模式](http://www.youngzy.com/blog/2020/11/abstract-factory/)
