@@ -53,4 +53,4 @@
 
 - - -
 
-Bolg: [www.youngzy.com | 设计模式 ｜ 工厂方法模式](http://www.youngzy.com/blog/2020/12/factory-method/)
+Blog: [www.youngzy.com | 设计模式 ｜ 工厂方法模式](http://www.youngzy.com/blog/2020/12/factory-method/)
