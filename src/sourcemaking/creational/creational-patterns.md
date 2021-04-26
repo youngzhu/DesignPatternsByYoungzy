@@ -49,4 +49,4 @@
 
 - - -
 
-Blog: [www.youngzy.com | 设计模式 ｜ 三大类型（Ⅰ）创建型](http://www.youngzy.com/blog/2020/12/object-pool/)
+Blog: [www.youngzy.com | 设计模式 ｜ 三大类型（Ⅰ）创建型](http://www.youngzy.com/blog/2021/04/creational-patterns/)
