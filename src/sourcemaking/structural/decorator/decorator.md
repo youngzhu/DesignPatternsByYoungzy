@@ -65,3 +65,8 @@ stream.putString("Hello World");
 7. 为每一个可选"装饰"创建一个装饰类的衍生类
 8. 衍生类实现他们自己的可选功能，然后委托给装饰基类
 9. 客户端决定核心类和装饰类的类型和顺序
+
+
+- - -
+
+Bolg: [www.youngzy.com | 设计模式 ｜ 装饰者模式](http://www.youngzy.com/blog/2021/11/decorator/)
